@@ -1,0 +1,7 @@
+countdown_time=00:01:00
+font=Helvetica
+main_font_size=12
+main_timer_font_size=24
+timer_font_size=64
+bg_color=#000000
+timer_color=#ff0044
